@@ -1,0 +1,7 @@
+{
+  "name": "TaskFlow - Todoist Inspired",
+  "description": "A high-performance, modern task management application featuring a Todoist-inspired UI with project organization, sub-tasks, and productivity tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
